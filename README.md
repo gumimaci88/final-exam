@@ -16,24 +16,24 @@ The student, on their own, is able to:
   * Follow indentation and coding styleguides in their code
   * Create variables and methods on a given specification
   * Use conditions and loops:
-    * [Filtering]()
-    * [Finding elements or index]()
-    * [Generating lists]()
-    * [Checking mutiple values and counting]()
-    * [Mapping values]()
+    * [Filtering](https://github.com/greenfox-academy/gumimaci88/blob/master/week-02/day-1/18_odd_even/src/OddEven.java)
+    * [Finding elements or index](https://github.com/greenfox-academy/gumimaci88/blob/master/week-02/day-2/09_sum_elements/src/SumElements.java)
+    * [Generating lists](https://github.com/greenfox-academy/gumimaci88/blob/master/week-02/day-3/07_match_making/src/Matchmaking.java)
+    * [Checking mutiple values and counting](https://github.com/greenfox-academy/gumimaci88/blob/master/week-02/day-3/13_calculator/src/Calculator.java)
+    * [Mapping values](https://github.com/greenfox-academy/gumimaci88/blob/master/week-02/day-3/14_he_will_never/src/HeWillNever.java)
   * Use object orientation:
-    * [Create and inherit classes including fields and methods on a given specification]()
+    * [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/gumimaci88/tree/master/week-04/day-2/02_garden_application/src)
     * Understanding the difference between classes and objects
-    * [Instantiating and using objects]()
-    * [Understanding "this" keyword]()
-  * [Handle errors and exceptions]()
+    * [Instantiating and using objects](https://github.com/greenfox-academy/gumimaci88/tree/master/week-04/day-2/01_green_fox_organization/src)
+    * [Understanding "this" keyword](https://github.com/greenfox-academy/gumimaci88/blob/master/week-04/day-1/07_sharpie/src/Sharpie.java)
+  * [Handle errors and exceptions](https://github.com/greenfox-academy/gumimaci88/blob/master/week-03/day-1/01_divide_by_zero/src/DivideByZero.java)
   * Determine the output of expressions
   * Explain their own code
-  * [Write unit tests for functions and methods]()
+  * [Write unit tests for functions and methods](https://github.com/greenfox-academy/gumimaci88/tree/master/week-04/day-1/08_counter/src)
   
 # Backend Orientation Exam Competencies
 ## Interfaces and abstract classes
-  * usage of [interfaces]() and [abstract classes]()
+  * usage of [interfaces](https://github.com/greenfox-academy/gumimaci88/tree/master/week-06/day-1/03_char_sequence/src) and [abstract classes](https://github.com/greenfox-academy/gumimaci88/tree/master/week-06/day-1/00_zoo/src/main/java/animals)
   * understanding the difference between interfaces and abstract classes
   * understand when to use interface and when to use super class
 ## Queries
