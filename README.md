@@ -102,7 +102,7 @@ The student, on their own, is able to:
     * Resolving a simple merge conflict
     * Creating a pull request
   * Understand API documentation
-  * Understand token based authorization
+  * [Understand token based authorization](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/controllers/AuthController.java)
   * Refactor code:
     * Create meaningful names for methods, classes and variables
     * Split bigger functions to smaller ones
@@ -111,11 +111,11 @@ The student, on their own, is able to:
   * Understand base concept of hosting
   * Deployment and continuous integration
   * Using design patterns
-  * Integration testing
+  * [Integration testing](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/test/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/MergedCalControllerTest.java)
   * Differentiate between backend and frontend (client) functionality
 ### Choose one from below:
 
-## Backend
+## [Backend](https://github.com/greenfox-academy/huli-kalendaryo-backend)
   * Use async structures:
     * Writing functions that are taking and calling callbacks
     * Determining the calling order in nested callbacks
@@ -133,10 +133,10 @@ The student, on their own, is able to:
   * Understanding and using rich web application framework:
     * Components, configuration, dependencies, extensions
     * Handle Authentication
-## Mobile
+## [Mobile](https://github.com/greenfox-academy/huli-kalendaryo-android)
   * Use async structures:
     * Writing functions that are taking and calling callbacks
   * Understanding and using mobile framework:
-    * Components, configuration, dependencies, extensions
-  * Designing multiple screens
+    * Components, configuration, [dependencies](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/components/ApiComponent.java), extensions
+  * [Designing multiple screens](https://github.com/greenfox-academy/huli-kalendaryo-android/commit/a18ef68fa74f32a403b4e5cc0006d712e4bd0f1e)
   * Handling authorized communication with backend
