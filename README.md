@@ -16,45 +16,45 @@ The student, on their own, is able to:
   * Follow indentation and coding styleguides in their code
   * Create variables and methods on a given specification
   * Use conditions and loops:
-    * Filtering
-    * Finding elements or index
-    * Generating lists
-    * Checking mutiple values and counting
-    * Mapping values
+    * [Filtering](https://github.com/greenfox-academy/adel-n/blob/master/week-02/day-01/exercise18/src/OddEven.java)
+    * [Finding elements or index](https://github.com/greenfox-academy/adel-n/blob/master/week-02/day-03/lists/exercise07/src/QuoteSwap.java)
+    * [Generating lists](https://github.com/greenfox-academy/adel-n/blob/master/week-02/day-03/lists/exercise02/src/Matchmaking.java)
+    * [Checking mutiple values and counting](https://github.com/greenfox-academy/adel-n/blob/master/week-02/day-02/exercise18/src/SumAll.java)
+    * [Mapping values](https://github.com/greenfox-academy/adel-n/blob/master/week-02/day-03/maps/exercise01/src/HeWillNever.java)
   * Use object orientation:
-    * Create and inherit classes including fields and methods on a given specification
+    * [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/adel-n/tree/master/week-06/day-1/Instruments/src/main/java/music)
     * Understanding the difference between classes and objects
-    * Instantiating and using objects
-    * Understanding "this" keyword
-  * Handle errors and exceptions
+    * [Instantiating and using objects](https://github.com/greenfox-academy/adel-n/tree/master/week-04/day-2/Green%20Fox%20organization/src)
+    * [Understanding "this" keyword](https://github.com/greenfox-academy/adel-n/blob/master/week-04/day-1/Sharpie/src/Sharpie.java)
+  * [Handle errors and exceptions](https://github.com/greenfox-academy/adel-n/blob/master/week-03/day-1/exercise04/src/WriteSingleLine.java)
   * Determine the output of expressions
   * Explain their own code
-  * Write unit tests for functions and methods
+  * [Write unit tests for functions and methods](https://github.com/greenfox-academy/adel-n/blob/master/week-04/day-3/Extension/Test/ExtensionTest.java)
   
 # Backend Orientation Exam Competencies
 ## Interfaces and abstract classes
-  * usage of interfaces and abstract classes
+  * usage of [interfaces](https://github.com/greenfox-academy/adel-n/tree/master/week-06/day-1/CharSequence/src) and [abstract classes](https://github.com/greenfox-academy/adel-n/tree/master/week-06/day-1/Zoo/src/main/java/animals)
   * understanding the difference between interfaces and abstract classes
   * understand when to use interface and when to use super class
 ## Queries
-  * usage of language integrated quaries e.g. LINQ/StreamApi
+  * usage of language integrated queries e.g. LINQ/[StreamApi](https://github.com/greenfox-academy/adel-n/blob/master/week-06/day-2/exercise4/src/Exercise4.java)
   * understanding the syntax
-  * able to write simple custom quaries
+  * able to write [simple custom queries](https://github.com/greenfox-academy/adel-n/blob/master/week-08/day-1/connectionwithmysql/src/main/java/com/greenfoxacademy/connectionwithmysql/repositories/TodoRepository.java)
 ## Build tool
-  * use build tools to build and run your applications e.g. gradle/.Net CLI
+  * use build tools to build and run your applications e.g. [gradle](https://github.com/greenfox-academy/adel-n/tree/master/week-07/day-1/springstart/src/main/java/com/greenfoxacademy/springstart)/.Net CLI
   * dependency definition
   * able to restore 3rd party library dependencies
 ## 3rd party libraries
-  * able to add and use libraries
+  * [able to add and use libraries](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/build.gradle)
   * find documentation and usage examples
 ## Backend Framework
-  * creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core
+  * creating a [Web Application with the given backend framework e.g. Spring](https://github.com/greenfox-academy/adel-n/tree/master/week-08/day-1/connectionwithmysql/src/main/java/com/greenfoxacademy/connectionwithmysql)/ASP.Net Core
   * understanding the used components
   * find documentation and usage examples
   * understanding the framework and the application as web backend
   * able to create examples for competencies of web backend
-  * using a templating system e.g. Thymeleaf/Razor Pages
-  * able to use the framework's special Dependency Injection system
+  * using a templating system e.g. [Thymeleaf](https://github.com/greenfox-academy/adel-n/blob/master/week-08/day-1/connectionwithmysql/src/main/resources/templates/todo.html)/Razor Pages
+  * able to use the framework's special [Dependency Injection](https://github.com/greenfox-academy/adel-n/blob/master/week-08/day-1/connectionwithmysql/src/main/java/com/greenfoxacademy/connectionwithmysql/controllers/AssigneeController.java) system
   * usage of the framework's IoC container
   * able to alter basic configurations
   * understanding the flow of HTTP
@@ -62,14 +62,14 @@ The student, on their own, is able to:
   * understanding and usage of basic SQL commands
     * select, insert, update, delete
   * connecting database to backend application
-    * database framework configuration
+    * [database framework configuration](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/build.gradle)
   * understanding Object Relational Mapping
-    * with using library: JPA/EF Core
+    * with using library: [JPA](https://github.com/greenfox-academy/adel-n/blob/master/week-08/day-1/connectionwithmysql/build.gradle)/EF Core
   * connection between:
     * tables and classes
     * records and objects
     * columns and fields/properties
-## Web backend
+## [Web backend](https://github.com/greenfox-academy/adel-n/blob/master/week-08/day-1/connectionwithmysql/src/main/java/com/greenfoxacademy/connectionwithmysql/controllers/TodoController.java)
   * domain
   * parts of the URL
   * endpoint
@@ -80,14 +80,14 @@ The student, on their own, is able to:
   * headers
   * body
   * templates
-## REST Web backend
+## [REST Web backend](https://github.com/greenfox-academy/adel-n/blob/master/week-09/day-1/restbackend/src/main/java/com/greenfoxacademy/restbackend/controllers/MyRestController.java)
   * understand what is an API and can use it
   * use JSON objects
   * understand the concept of serialization
   * able to use Postman
-## Endpoint tests
+## [Endpoint tests](https://github.com/greenfox-academy/adel-n/blob/master/week-09/day-1/restbackend/src/test/java/com/greenfoxacademy/restbackend/RestbackendApplicationTests.java)
   * able to make difference between unit test and integration test
-  * create endpoint test
+  * create [endpoint test](https://github.com/greenfox-academy/adel-n/blob/master/week-09/day-2/iamgroot/src/test/java/com/greenfoxacademy/iamgroot/IamgrootApplicationTests.java)
     * with the help of a mock server
 
 # Final exam requirements
