@@ -16,7 +16,7 @@ The student, on their own, is able to:
   * Follow indentation and coding styleguides in their code
   * Create variables and methods on a given specification
   * Use conditions and loops:
-    * [Filtering](https://github.com/greenfox-academy/gumimaci88/blob/master/week-02/day-1/18_odd_even/src/OddEven.java)
+    * [Filtering](https://github.com/greenfox-academy/gumimaci88/blob/master/week-02/day-1/21_party_indicator/src/PartyIndicator.java)
     * [Finding elements or index](https://github.com/greenfox-academy/gumimaci88/blob/master/week-02/day-2/09_sum_elements/src/SumElements.java)
     * [Generating lists](https://github.com/greenfox-academy/gumimaci88/blob/master/week-02/day-3/07_match_making/src/Matchmaking.java)
     * [Checking mutiple values and counting](https://github.com/greenfox-academy/gumimaci88/blob/master/week-02/day-3/13_calculator/src/Calculator.java)
@@ -37,24 +37,24 @@ The student, on their own, is able to:
   * understanding the difference between interfaces and abstract classes
   * understand when to use interface and when to use super class
 ## Queries
-  * usage of language integrated queries e.g. LINQ/[StreamApi]()
+  * usage of language integrated queries e.g. LINQ/[StreamApi](https://github.com/greenfox-academy/gumimaci88/blob/master/week-06/day-2/exercise06/src/FrequencyString.java)
   * understanding the syntax
   * able to write [simple custom queries]()
 ## Build tool
-  * use build tools to build and run your applications e.g. [gradle]()/.Net CLI
+  * use build tools to build and run your applications e.g. [gradle](https://github.com/greenfox-academy/gumimaci88/tree/master/week-07/day-1/springstart)/.Net CLI
   * dependency definition
   * able to restore 3rd party library dependencies
 ## 3rd party libraries
-  * [able to add and use libraries]()
+  * [able to add and use libraries](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/build.gradle)
   * find documentation and usage examples
 ## Backend Framework
-  * creating a [Web Application with the given backend framework e.g. Spring]()/ASP.Net Core
+  * creating a [Web Application with the given backend framework e.g. Spring](https://github.com/gumimaci88/pallida-orientation-exam/tree/master/licenseplatewebapplication)/ASP.Net Core
   * understanding the used components
   * find documentation and usage examples
   * understanding the framework and the application as web backend
   * able to create examples for competencies of web backend
-  * using a templating system e.g. [Thymeleaf]()/Razor Pages
-  * able to use the framework's special [Dependency Injection]() system
+  * using a templating system e.g. [Thymeleaf](https://github.com/gumimaci88/pallida-orientation-exam/blob/master/licenseplatewebapplication/src/main/resources/templates/main.html)/Razor Pages
+  * able to use the framework's special [Dependency Injection](https://github.com/gumimaci88/pallida-orientation-exam/blob/master/licenseplatewebapplication/src/main/java/com/greenfoxacademy/licenseplatewebapplication/controllers/CarsController.java) system
   * usage of the framework's IoC container
   * able to alter basic configurations
   * understanding the flow of HTTP
@@ -69,7 +69,7 @@ The student, on their own, is able to:
     * tables and classes
     * records and objects
     * columns and fields/properties
-## [Web backend]()
+## [Web backend](https://github.com/greenfox-academy/gumimaci88/blob/master/week-07/day-3/bankofsimba/src/main/java/com/greenfoxacademy/bankofsimba/controllers/Controllers.java)
   * domain
   * parts of the URL
   * endpoint
@@ -80,14 +80,14 @@ The student, on their own, is able to:
   * headers
   * body
   * templates
-## [REST Web backend]()
+## [REST Web backend](https://github.com/greenfox-academy/gumimaci88/blob/master/week-09/day-2/restbackend/src/main/java/com/greenfoxacademy/restbackend/controllers/MainRestController.java)
   * understand what is an API and can use it
   * use JSON objects
   * understand the concept of serialization
   * able to use Postman
-## [Endpoint tests]()
+## Endpoint tests
   * able to make difference between unit test and integration test
-  * create [endpoint test]()
+  * create [endpoint test](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/hieu-get-auth-tests/src/test/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/controllers/AuthControllerTests.java)
     * with the help of a mock server
 
 # Final exam requirements
@@ -102,7 +102,7 @@ The student, on their own, is able to:
     * Resolving a simple merge conflict
     * Creating a pull request
   * Understand API documentation
-  * [Understand token based authorization]()
+  * [Understand token based authorization](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/service/authorization/AuthorizeKal.java)
   * Refactor code:
     * Create meaningful names for methods, classes and variables
     * Split bigger functions to smaller ones
@@ -111,7 +111,7 @@ The student, on their own, is able to:
   * Understand base concept of hosting
   * Deployment and continuous integration
   * Using design patterns
-  * [Integration testing]()
+  * [Integration testing](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/test/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/MergedCalControllerTest.java)
   * Differentiate between backend and frontend (client) functionality
 ### Choose one from below:
 
