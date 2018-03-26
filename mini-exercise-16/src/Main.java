@@ -21,3 +21,5 @@ public class Main {
         return StringJoinedWithLetter;
     }
 }
+
+//I've put this comment here, because of some reason, the additional line (in line 24) did not appear after I've pushed.
