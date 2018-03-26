@@ -64,7 +64,7 @@ The student, on their own, is able to:
   * connecting database to backend application
     * database framework configuration
   * understanding Object Relational Mapping
-    * with using library: [JPA]()/EF Core
+    * with using library: JPA()/EF Core
   * connection between:
     * tables and classes
     * records and objects
