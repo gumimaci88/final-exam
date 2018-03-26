@@ -126,13 +126,6 @@ The student, on their own, is able to:
     * Using complex data structures
     * Understanding and using table connections
     * Understanding migration
-## Fullstack
-  * Use async structures:
-    * Writing functions that are taking and calling callbacks
-    * Determining the calling order in nested callbacks
-  * Understanding and using rich web application framework:
-    * Components, configuration, dependencies, extensions
-    * Handle Authentication
 ## [Mobile](https://github.com/greenfox-academy/huli-kalendaryo-android)
   * Use async structures:
     * Writing functions that are taking and calling callbacks
