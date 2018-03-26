@@ -39,7 +39,7 @@ The student, on their own, is able to:
 ## Queries
   * usage of language integrated queries e.g. LINQ/[StreamApi](https://github.com/greenfox-academy/gumimaci88/blob/master/week-06/day-2/exercise06/src/FrequencyString.java)
   * understanding the syntax
-  * able to write [simple custom queries]()
+  * able to write [simple custom queries](https://github.com/gumimaci88/pallida-orientation-exam/blob/master/licenseplatewebapplication/src/main/java/com/greenfoxacademy/licenseplatewebapplication/services/CarServiceImpl.java)
 ## Build tool
   * use build tools to build and run your applications e.g. [gradle](https://github.com/greenfox-academy/gumimaci88/tree/master/week-07/day-1/springstart)/.Net CLI
   * dependency definition
@@ -62,7 +62,7 @@ The student, on their own, is able to:
   * understanding and usage of basic SQL commands
     * select, insert, update, delete
   * connecting database to backend application
-    * [database framework configuration]()
+    * database framework configuration
   * understanding Object Relational Mapping
     * with using library: [JPA]()/EF Core
   * connection between:
@@ -103,7 +103,7 @@ The student, on their own, is able to:
     * Creating a pull request
   * Understand API documentation
   * [Understand token based authorization](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/service/authorization/AuthorizeKal.java)
-  * Refactor code:
+  * [Refactor code:](https://github.com/greenfox-academy/huli-kalendaryo-backend/pull/104)
     * Create meaningful names for methods, classes and variables
     * Split bigger functions to smaller ones
     * Separate functionalities to different files
@@ -121,15 +121,15 @@ The student, on their own, is able to:
     * Determining the calling order in nested callbacks
   * Authentication:
     * Handle authentication
-    * Handle token based authorization
+    * [Handle token based authorization](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/controllers/AuthController.java)
   * Database
     * Using complex data structures
     * Understanding and using table connections
-    * Understanding migration
+    * [Understanding migration](https://github.com/greenfox-academy/huli-kalendaryo-backend/tree/dev/src/main/resources/db/migration)
 ## [Mobile](https://github.com/greenfox-academy/huli-kalendaryo-android)
-  * Use async structures:
+  * [Use async structures:](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/SelectCalendarActivity.java)
     * Writing functions that are taking and calling callbacks
   * Understanding and using mobile framework:
     * Components, configuration, [dependencies](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/components/ApiComponent.java), extensions
-  * [Designing multiple screens](https://github.com/greenfox-academy/huli-kalendaryo-android/commit/a18ef68fa74f32a403b4e5cc0006d712e4bd0f1e)
-  * Handling authorized communication with backend
+  * [Designing multiple screens](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/MainActivity.java)
+  * [Handling authorized communication](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/LoginActivity.java) with [backend](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/service/authorization/AuthorizeKal.java)
